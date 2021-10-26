@@ -1,0 +1,17 @@
+{
+  "name": "teste_sqlite",
+  "private": true,
+  "scripts": {
+    "start": "meteor --settings=settings.json run",
+    "inspect": "meteor --settings=settings.json --inspect run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.14.6",
+    "meteor-node-stubs": "^1.0.3"
+  },
+  "meteor": {
+    "mainModule": {
+      "server": "server/main.js"
+    }
+  }
+}

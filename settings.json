@@ -1,0 +1,12 @@
+{
+  "private": {
+    "packages": {
+      "sqlite": {
+        "storage": "/home/rogerio/projetos/meteor/apps/teste_sqlite/db.sqlite"
+      },
+      "desktop-gtk": {
+        "application_id": "ffder.ggggg"
+      }
+    }
+  }
+}
